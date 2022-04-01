@@ -1,4 +1,18 @@
 body{
-    background-color: blue;
+     
+    font-family: sans-serif;
 }
+.aboutdiv{
+    background-color: rgb(241, 248, 248);
+}
+.what-we-do{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.divisions-of-work{
+    margin-left: 170px;
+}
+    
+    
+
 
